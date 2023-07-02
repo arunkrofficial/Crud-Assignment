@@ -1,6 +1,6 @@
 ﻿# Crud-Assignment
 
-User Management Backend 0ith Express and MongoDB
+User Management Backend with Express and MongoDB
 
   This project is a user management backend system built with Express.js and MongoDB. It provides a RESTful API for user registration and login functionality, allowing users to create an account and authenticate themselves.
 
