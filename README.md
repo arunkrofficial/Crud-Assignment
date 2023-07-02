@@ -27,8 +27,9 @@ User Management Backend with Express and MongoDB
     4.Start the server: node server.js
     5.The server will start running on http://localhost:3000 (or your specified port).
 
-#  API Endpoints
-    # Register
+#  API Endpoints =>
+
+ # Register
       Method: POST
       Endpoint: /register
       Payload:
